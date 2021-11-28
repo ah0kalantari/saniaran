@@ -163,7 +163,7 @@
     </div>
     <!-- onmouseout="hide_menu_desktop()" onmouseover="show_menu_desktop()" -->
     <br>
-    <div class="">
+    <div class="style-of-moarefi-shoql-box">
         <h1 class="style-of-moarefi-shoql">
             خدمات پس از فروش لوازم خانگی سانیاران
         </h1>

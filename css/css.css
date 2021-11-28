@@ -773,9 +773,9 @@
         padding: 5px !important;
         margin-right: 1.5%;
         margin-bottom: 15px;
-        /* animation-name: effect-of-brand-img-in-lavazem-khangy-page;
+        animation-name: effect-of-brand-img-in-lavazem-khangy-page;
         animation-duration: 4000ms;
-        animation-iteration-count: infinite; */
+        animation-iteration-count: infinite;
         background-color: white;
     }    
     .style-of-brand-img-in-lavazem-khangy-page{
@@ -785,9 +785,9 @@
         padding: 5px !important;
         margin-right: 1.8%;
         margin-bottom: 15px;
-        /* animation-name: effect-of-brand-img-in-lavazem-khangy-page;
+        animation-name: effect-of-brand-img-in-lavazem-khangy-page;
         animation-duration: 4000ms;
-        animation-iteration-count: infinite; */
+        animation-iteration-count: infinite;
         background-color: white;
     }
     #display-first-brand-pic{
@@ -810,7 +810,7 @@
         display: none;
     }
     .style-of-naqshe-iran-box{
-        background-color: rgb(7, 80, 7) !important;
+        background-color: #0c489c !important;
         float: right;
         border-top: #070ac6 solid 3px;
     }
@@ -828,7 +828,7 @@
         font-size: 30px;
         font-family: iransans;
         text-align: center;
-        background-color: rgb(7, 80, 7) !important;
+        background-color: #0c489c !important;
         font-weight: bold;
         padding: 0%;
         margin: 0%;
@@ -840,7 +840,7 @@
         font-family: iransans;
         color: white;
         text-align: center;
-        background-color: rgb(7, 80, 7) !important;
+        background-color: #0c489c !important;
         font-weight: bold;
         padding: 0%;
         margin: 0%;
@@ -854,7 +854,7 @@
         font-family: iransans;
         color: white;
         text-align: center;
-        background-color: rgb(7, 80, 7) !important;
+        background-color: #0c489c !important;
         font-weight: bold;
         padding-right: 25px;
     }
@@ -989,9 +989,9 @@
         margin-left: 32%;
         border-radius: 50%;
         border: black solid 7px;
-        /* animation-name: effect-of-brand-img-in-brand-page;
+        animation-name: effect-of-brand-img-in-brand-page;
         animation-duration: 4000ms;
-        animation-iteration-count: infinite; */
+        animation-iteration-count: infinite;
     }
     .style-of-orginal-brand-image{
         width: 90%;
@@ -1097,6 +1097,9 @@
 }
 /* end brand image styles  */
 /* ---------------------------------------------------------------------------------------------------- */
+.style-of-moarefi-shoql-box{
+    background-color: #246ed7;
+}
 .style-of-comming-soon-fa{
     color: black;
     font-size: 25px;
@@ -1456,7 +1459,21 @@
         background-color: #246ed7;
         text-align: center;
         padding-top: 10px;
-        padding-bottom: 50px;
+        padding-bottom: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-family: iransans;
+        line-height: 60px;
+        font-size: 40px;
+        direction: rtl;
+        margin: 0 !important;
+    }
+    .style-of-moarefi-shoql2{
+        color: white;
+        background-color: #246ed7;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 10px;
         padding-left: 30px;
         padding-right: 30px;
         font-family: iransans;
@@ -1465,17 +1482,17 @@
         direction: rtl;
         margin: 0 !important;
     }
-    .style-of-moarefi-shoql2{
+    .style-of-moarefi-shoql3{
         color: white;
         background-color: #246ed7;
         text-align: center;
-        padding-top: 50px;
-        padding-bottom: 10px;
+        padding-top: 40px;
+        padding-bottom: 40px;
         padding-left: 30px;
         padding-right: 30px;
         font-family: iransans;
         line-height: 60px;
-        font-size: 40px;
+        font-size: 30px;
         direction: rtl;
         margin: 0 !important;
     }
@@ -1791,9 +1808,9 @@
         border-radius: 50%;
         margin-left: 32%;
         border: black solid 7px;
-        /* animation-name: effect-of-brand-img-in-brand-page;
+        animation-name: effect-of-brand-img-in-brand-page;
         animation-duration: 4000ms;
-        animation-iteration-count: infinite; */
+        animation-iteration-count: infinite;
     }
     .style-of-zir-why-this-co-td{
         width: 100% !important;
@@ -2025,7 +2042,8 @@
 /* ---------------------------------------------------------------------------------------------------- */
 /* style of naqshe-iran */
     .style-of-naqshe-iran-box-mo{
-        background-color: rgb(7, 80, 7) !important;
+        background-color: #0c489c !important;
+        width: 100% !important;
     }
     .style-of-naqshe-iran-box{
         display: none;
@@ -2033,7 +2051,7 @@
     .style-of-naqshe-iran-img{
         width: 80%;
         margin: 9% !important;
-        background-color: rgb(7, 80, 7);
+        background-color: #0c489c;
         border-radius:50px;
         border: white solid 5px;
     }
@@ -2043,7 +2061,7 @@
         font-size: 40px;
         font-family: iransans;
         text-align: center;
-        background-color: rgb(7, 80, 7) !important;
+        background-color: #0c489c !important;
         font-weight: bold;
         padding: 0%;
         margin: 0%;
@@ -2055,7 +2073,7 @@
         font-family: iransans;
         color: white;
         text-align: center;
-        background-color: rgb(7, 80, 7) !important;
+        background-color: #0c489c !important;
         font-weight: bold;
         padding: 0%;
         margin: 0%;
@@ -2069,9 +2087,10 @@
         font-family: iransans;
         color: white;
         text-align: center;
-        background-color: rgb(7, 80, 7) !important;
+        background-color: #0c489c !important;
         font-weight: bold;
         padding-right: 25px;
+        padding-left: 25px;
     }
 /* end style of naqshe-iran */
 /* ---------------------------------------------------------------------------------------------------- */
@@ -2862,6 +2881,7 @@ display: none;
 
 body{
     overflow-x: hidden !important;
+    width: 100% !important;
 }
 
 
